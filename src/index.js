@@ -1,3 +1,4 @@
-import './module.js';
+import './module'
+import './scss/index.scss'
 
-console.log("JS is working");
+console.log('Working!')
